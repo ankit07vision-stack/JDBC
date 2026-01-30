@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.util.Scanner;
 import java.sql.SQLException;
 
-public class Batch_Transaction {
+public class Batch {
 
     private static final String url =
             "jdbc:mysql://localhost:3306/mydb";
